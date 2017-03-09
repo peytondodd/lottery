@@ -1,4 +1,4 @@
-package com.sd.nba;
+package nba;
 
 import java.util.ArrayList;
 import java.util.Collections;

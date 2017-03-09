@@ -1,11 +1,11 @@
-package com.sd.powerball;
+package powerball;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.sd.lottery.Ball;
-import com.sd.lottery.Hopper;
+import lottery.Ball;
+import lottery.Hopper;
 
 public class RedBallMachine implements Hopper {
 	private int numBalls;

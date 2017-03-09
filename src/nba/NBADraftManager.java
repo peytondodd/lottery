@@ -1,10 +1,10 @@
-package com.sd.nba;
+package nba;
 
 import java.util.List;
 
-import com.sd.lottery.BallFactory;
-import com.sd.lottery.Hopper;
-import com.sd.lottery.Manager;
+import lottery.BallFactory;
+import lottery.Hopper;
+import lottery.Manager;
 
 public class NBADraftManager implements Manager{
 	private Hopper nbaHopper;

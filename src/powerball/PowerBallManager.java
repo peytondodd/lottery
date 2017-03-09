@@ -1,12 +1,12 @@
-package com.sd.powerball;
+package powerball;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import com.sd.lottery.BallFactory;
-import com.sd.lottery.Hopper;
-import com.sd.lottery.Manager;
+import lottery.BallFactory;
+import lottery.Hopper;
+import lottery.Manager;
 
 public class PowerBallManager implements Manager{
 	private BallFactory ballFactory;

@@ -1,4 +1,4 @@
-package com.sd.powerball;
+package powerball;
 
 public enum Color {
 	WHITE, RED

@@ -1,6 +1,6 @@
-package com.sd.powerball;
+package powerball;
 
-import com.sd.lottery.Ball;
+import lottery.Ball;
 
 public class PowerBallBall implements Ball {
 	private String label;

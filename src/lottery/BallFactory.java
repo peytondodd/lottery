@@ -1,11 +1,11 @@
-package com.sd.lottery;
+package lottery;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.sd.nba.NBATeamBall;
-import com.sd.powerball.Color;
-import com.sd.powerball.PowerBallBall;
+import nba.NBATeamBall;
+import powerball.Color;
+import powerball.PowerBallBall;
 
 public class BallFactory {
 	public List<Ball> makeBalls(int numBalls, String name) {

@@ -1,4 +1,4 @@
-package com.sd.powerball;
+package powerball;
 
 public class PowerBallSimulator {
 	private String[] winner;

@@ -1,4 +1,4 @@
-package com.sd.lottery;
+package lottery;
 
 public interface Ball {
 

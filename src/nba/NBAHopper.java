@@ -1,11 +1,11 @@
-package com.sd.nba;
+package nba;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.sd.lottery.Ball;
-import com.sd.lottery.Hopper;
+import lottery.Ball;
+import lottery.Hopper;
 
 public class NBAHopper implements Hopper{
 	private List<Ball> hopper = new ArrayList<Ball>();

@@ -1,4 +1,4 @@
-package com.sd.nba;
+package nba;
 
 import java.util.Arrays;
 import java.util.List;

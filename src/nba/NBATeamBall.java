@@ -1,6 +1,6 @@
-package com.sd.nba;
+package nba;
 
-import com.sd.lottery.Ball;
+import lottery.Ball;
 
 public class NBATeamBall implements Ball {
 	private String label;
